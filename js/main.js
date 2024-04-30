@@ -17,7 +17,7 @@ MainEl.classList.add('flex-ctr');
 //2.0
 const topMenuEL=document.getElementById('top-menu');
 //2.1
-topMenuEL.style.height-'100%';
+topMenuEL.style.height-'100%'
 //2.2
 topMenuEL.classList.add('flex around');
 //3.1 --had issues with this part and need to figure out what I missed
